@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4mbg30qx14k65p11m8Pe5GYoVDLiiXkvXgEjQ9YaYsMXnPdtka1sEqPRYF644xgpYmFKFdzdcMYYjlyEBn9LFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caloy\\source\\repos\\notify\\notify\\notify\\notify.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caloy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\caloy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\caloy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\caloy\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\caloy\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
